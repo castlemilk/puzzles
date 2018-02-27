@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff9d06c3-c306-413f-b0e0-c2380b8f3e75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/lists/LinkedList1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/lists/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/lists/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/lists/tests/test_linkedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/duplicates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/palindromes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/substitution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/substrings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/tests/palindrome_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/tests/test_duplicates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/tests/test_substitution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/problems/strings/tests/test_substrings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems/lists/LinkedList1.py" afterPath="$PROJECT_DIR$/problems/lists/LinkedList1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/problems/lists/tests/test_linkedList.py" afterPath="$PROJECT_DIR$/problems/lists/tests/test_linkedList.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,101 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="substrings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/substrings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="substitution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/substitution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_substitution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/tests/test_substitution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LinkedList1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/lists/LinkedList1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="palindromes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/strings/palindromes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="palindrome_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/tests/palindrome_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_duplicates.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/tests/test_duplicates.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_linkedList.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_linkedList.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/lists/tests/test_linkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_hashmap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/hash/tests/test_hashmap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_substrings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/strings/tests/test_substrings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="60" />
+            <state relative-caret-position="240">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -156,10 +64,10 @@
         <option value="$PROJECT_DIR$/problems/strings/substitution.py" />
         <option value="$PROJECT_DIR$/problems/strings/tests/test_substitution.py" />
         <option value="$PROJECT_DIR$/problems/lists/LinkedList.py" />
+        <option value="$PROJECT_DIR$/problems/strings/tests/palindrome_test.py" />
+        <option value="$PROJECT_DIR$/problems/strings/palindromes.py" />
         <option value="$PROJECT_DIR$/problems/lists/LinkedList1.py" />
         <option value="$PROJECT_DIR$/problems/lists/tests/test_linkedList.py" />
-        <option value="$PROJECT_DIR$/problems/strings/palindromes.py" />
-        <option value="$PROJECT_DIR$/problems/strings/tests/palindrome_test.py" />
       </list>
     </option>
   </component>
@@ -403,50 +311,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/strings/substrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/hash/tests/test_hashmap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/strings/tests/test_substitution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/lists/tests/test_linkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/lists/LinkedList1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/strings/substitution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -469,8 +337,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/strings/palindromes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="120">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/strings/tests/test_substitution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/strings/substitution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/strings/substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/lists/LinkedList1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/lists/tests/test_linkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>

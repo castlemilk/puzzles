@@ -68,7 +68,9 @@ class LinkedList(object):
                 if previous_node:
                     previous_node.set_next(current_node.get_next())
                 else:
-                    self.head = current_node
+                    previous_node = current_node.get_next()
+                    self.head = previous_node
+
             else:
                 previous_node = current_node
                 current_node = current_node.get_next()
