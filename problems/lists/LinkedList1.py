@@ -81,3 +81,17 @@ class LinkedList1(object):
                 current_node = current_node.get_next()
 
         return found
+
+    def remove_duplicates(self):
+        current = second = self.head
+        while current is not None: # iterate from start, checking linkedList for matches
+            while second.next is not None:
+                #
+                # 5 -> 4 -> 3 -> 3 -> 2 -> 1 -> None
+                if second.get_next().get_data() == current.get_data():
+                    second.set_next(second.get_next().get_next())
+                else:
+                    second = second.get_next()
+
+            current = second = current.get_next()
+

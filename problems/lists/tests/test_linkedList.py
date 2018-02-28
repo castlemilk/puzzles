@@ -23,6 +23,19 @@ def test_linkedList1():
     assert d.size() == 2
 
 
+def test_linkedList1_duplicates():
+    d = LinkedList1()
+    d.add(1)
+    d.add(2)
+    d.add(3)
+    d.add(3)
+    d.add(4)
+    d.add(5)
+    assert d.size() == 6
+    d.remove_duplicates()
+    assert d.size() == 5
+
+
 def test_linkedList2():
     d = LinkedList2()
     d.add(1)
