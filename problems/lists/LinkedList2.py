@@ -4,12 +4,12 @@ class Node(object):
     This is a singly-linked node, where it only points/references the next node, not the previous
     """
 
-    def __init__(self, initdata):
-        self.data = initdata
+    def __init__(self, data=None):
+        self.data = data
         self.next = None
 
     def __str__(self):
-        return "data: {} -> next: {}".format(self.data, self.next)
+        return "| {} -> {} |".format(self.data, self.next)
 
     def get_data(self):
         return self.data
@@ -24,14 +24,15 @@ class Node(object):
         self.next = node
 
 
-class LinkedList1(object):
+class LinkedList2(object):
     """
-    Singly-linked list implementation. Where there is only a reference to the next time in the list and not the previous
+    Simpler Singly-linked list implementation. Where there is only a reference to the next time in the list and not the previous
 
     head -> node -> node -> node -> node -> node -> None
     """
+
     def __init__(self):
-        self.head = None
+        self.head = Node()
 
     def is_empty(self):
         return self.head is None
