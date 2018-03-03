@@ -5,9 +5,11 @@ implementing testcases
 # project structure
 problems
 
-├── category
+├── categoryA
 
-│   └── solutions
+│   └── solutions1.py
+
+│   └── solutions2.py
 
 │   └── tests
 
@@ -15,9 +17,11 @@ problems
 
 │       └── solution tests
 
-├── category
+├── categoryB
 
-│   └── solutions
+│   └── solutions1.py
+
+│   └── solutions2.py
 
 │   └── tests
 
