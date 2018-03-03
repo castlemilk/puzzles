@@ -5,7 +5,7 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - pytest --cov=problems tests/
+  - pytest --cov=problems
 
 after_success:
   - overalls --data_file=./problems/.coverage
