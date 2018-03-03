@@ -1,1 +1,3 @@
-{}
+{
+  "problems/strings/tests/test_compress.py::test_compress": true
+}
