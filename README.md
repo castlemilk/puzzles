@@ -4,16 +4,27 @@ implementing testcases
 
 # project structure
 problems
+
 ├── category
+
 │   └── solutions
+
 │   └── tests
+
 │       └── ...
+
 │       └── solution tests
+
 ├── category
+
 │   └── solutions
+
 │   └── tests
+
 │       └── ...
+
 │       └── solution tests
+
 
 
 
