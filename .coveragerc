@@ -1,4 +1,4 @@
 [run]
-omit = *venv/*
+omit = *venv/*, *virtualenv/*
 [paths]
 source = problems
