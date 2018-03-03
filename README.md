@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/castlemilk/puzzles.svg?branch=master)](https://travis-ci.org/castlemilk/puzzles)
 # Puzzles
 Solving data structure and algorithm problems and
 implementing testcases
