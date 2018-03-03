@@ -61,3 +61,4 @@ test cases with:
 ## TODO
 * Add solutions + tests in Go
 * Add solutions + tests in Java
+* Add circleCI build and test for project alongside travis CI
