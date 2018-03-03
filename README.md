@@ -41,3 +41,7 @@ source venv/bin/activate
 (venv)$ pip install -r requirements.txt
 (venv)$ pytest
 ```
+
+## TODO
+* Add solutions + tests in Go
+* Add solutions + tests in Java
