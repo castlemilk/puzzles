@@ -34,5 +34,6 @@ git clone https://github.com/castlemilk/puzzles.git
 cd puzzles
 virtualenv -p `which python3` ./venv
 source venv/bin/activate
+(venv)$ pip install -r requirements.txt
 (venv)$ pytest
 ```
