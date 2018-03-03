@@ -8,4 +8,4 @@ script:
   - pytest --cov=problems
 
 after_success:
-  - overalls --data_file=./problems/.coverage
+  - coveralls --data_file=./problems/.coverage
