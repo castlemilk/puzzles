@@ -13,4 +13,8 @@ def test_distance_VLD():
     assert distance.VLD('cat', 'dog') == 3
 
 
+def test_distance_one():
+    # recursive solution
+    assert distance.distance_one('cat', 'dog') is False
+    assert distance.distance_one('dog', 'dot') is True
 
